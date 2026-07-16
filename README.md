@@ -22,4 +22,4 @@ If you enjoy it, please wishlist the full game on Steam.
 
 ## ℹ️ 关于 / About
 本游戏由我一个人独立制作，开发中借助了 AI 工具；但游戏运行时不生成任何 AI 内容，所有内容发布前已固定。仍在持续更新中，欢迎反馈。
-Made solo, with heavy use of AI tools during development (code and pixel art were AI-generated under my direction and iteration). No AI content is generated at runtime. Still being updated — feedback welcome!
+Made solo, with use of AI tools during development (code and pixel art were AI-generated under my direction and iteration). No AI content is generated at runtime. Still being updated — feedback welcome!
